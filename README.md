@@ -29,5 +29,5 @@ A microcontroller-based RF signal cloner built on the Wemos D1 Mini, designed to
 - Capture Button: D5
 - Send Button: D6
 
-## License
-MIT License
+## Author
+*## COMMUNITY ARC ##*
