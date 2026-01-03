@@ -1,0 +1,16 @@
+______________________________________________
+
+__=__=__=__=__=__=RF_CLONER__=__=__=__=__=__=_
+______________________________________________
+
+!Requirements
+D1 mini 
+433 MHz Receiver
+433 MHz Transmitter
+2 x Button
+
+!Circuit
+433 MHz Receiver     =  D2
+433 MHz Transmitter  =  D1
+capture Button       =  D5
+send Button          =  D6
